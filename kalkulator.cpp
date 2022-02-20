@@ -13,7 +13,7 @@ int main()
  cout<<"Podaj znak czynnosci ktora chcesz wykonac: "<<endl;
  cin>>z;
  cout<<"Podaj druga liczbe: "<<endl;
- cin>>y;
+ cin>>y;//teraz wiadomo do czego sluzy program
  
  if (z=='+'){
  a=x+y;
